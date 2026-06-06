@@ -1,0 +1,9 @@
+# IDE, Virtual Environment
+.idea
+.venv
+
+# Private 기록용
+.private
+
+# Environment
+.env
