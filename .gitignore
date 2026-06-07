@@ -9,4 +9,4 @@
 .env
 
 # Chroma
-chroma*/
+source/rag/chroma/**/chroma*/
