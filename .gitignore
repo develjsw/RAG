@@ -7,3 +7,6 @@
 
 # Environment
 .env
+
+# Chroma
+chroma/
