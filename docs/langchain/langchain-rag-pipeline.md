@@ -140,5 +140,3 @@ answer = rag_chain.invoke({"input": "소득세 납세 의무"})  # 출력 키: i
 | 임베딩 모델 | `text-embedding-ada-002` | `text-embedding-3-large` / `-small` |
 
 ---
-
-전체를 한 셀씩 따라 실행하려면 → [langchain-rag-template.ipynb](../../source/rag/chroma/template/langchain-rag-template.ipynb)
